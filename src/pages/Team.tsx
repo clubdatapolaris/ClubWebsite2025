@@ -231,7 +231,7 @@ const Team: React.FC = () => {
     {
       name: "Bhavya Chauhan",
       role: "SY-DS",
-      image: "images/team images/BHavyaIMG_3264.jpg",
+      image: "/images/team images/bhavya_chawhan.jpg",
       github: "https://github.com/BeingBhavya",
       linkedin: "https://www.linkedin.com/in/bhavya-chauhan-50b98133a/",
     },
