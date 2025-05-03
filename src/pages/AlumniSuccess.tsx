@@ -39,7 +39,7 @@ const AlumniSuccess: React.FC = () => {
     2025: [
       {
         name: "Vishal Bhalkar",
-        image: "public/Alumni-images/vishal.jpg",
+        image: "Alumni-images/vishal.jpg",
         head: "Formal Head",
         company: "Celebal Technologies",
         
